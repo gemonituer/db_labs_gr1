@@ -61,7 +61,7 @@
 
 ## Посилання
 
-[Посилання на Zoho Survey](https://www.zoho.com/survey/](https://www.zoho.com/survey/solutions/product-experience.html?src=headermenu))
+[Посилання на Zoho Survey](https://www.zoho.com/survey/)
 
 [Посилання на Survey Monkey](https://www.surveymonkey.com/product/)
 
